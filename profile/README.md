@@ -1,4 +1,18 @@
-## Hi there 👋
+<p align="center">
+<!-- Header Logo -->
+ <img width="100%" align="center" src ="https://github.com/CrashOverrideProductions/CrashOverRideProductions/blob/main/images/header.jpg?raw=false" >
+
+ <p align="center">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/CrashOverrideProductions?label=Followers&style=for-the-badge&logo=GitHub&color=brightgreen">
+
+<img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/CrashOverrideProductions?label=Sponsors&style=for-the-badge&logo=Buy%20Me%20A%20Coffee&color=brightgreen&logoColor=white">
+
+<img alt="GitHub Start" src="https://img.shields.io/github/stars/CrashOverrideProductions?label=Stars&style=for-the-badge&logo=GitHub&color=brightgreen">
+
+</p>
+
+
+
 
 <!--
 
