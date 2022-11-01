@@ -15,9 +15,9 @@
 ## GitHub Statistics
 
 <p align="center">
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=CrashOverrideProductions&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=darcula"/>
+<img height="185em" align="left" src="https://github-readme-stats.vercel.app/api?username=CrashOverrideProductions&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=darcula"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrashOverrideProductions&langs_count=8&hide=Shell,OpenSCAD,Makefile,G-code,JavaScript,Prolog&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&layout=compact&theme=darcula" />
+<img height="185em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrashOverrideProductions&langs_count=8&hide=Shell,OpenSCAD,Makefile,G-code,JavaScript,Prolog&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&layout=compact&theme=darcula" />
 </p>
 
 
