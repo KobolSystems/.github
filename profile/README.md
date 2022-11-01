@@ -20,14 +20,53 @@ Quisque gravida sapien ac ligula sodales ullamcorper. Vestibulum mauris ligula, 
 Proin sed porttitor nulla. Cras ac dolor eu ante posuere semper. Suspendisse potenti. Nunc posuere enim magna, quis mollis nulla cursus pellentesque. Maecenas mattis ex lorem, in bibendum est imperdiet ac. Donec sagittis arcu eget faucibus vestibulum. Fusce in tortor id mauris maximus tincidunt at ac est. Donec quis enim malesuada, dapibus dolor ut, placerat nibh. Donec facilisis ultrices quam, commodo malesuada odio blandit id.  
 </p>
 
-
 <!-- Statistics -->
 ## GitHub Statistics
-
-<p align="center">
-<img height="185em" align="left" src="https://github-readme-stats.vercel.app/api?username=CrashOverrideProductions&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=darcula"/>
-<img height="185em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrashOverrideProductions&langs_count=8&hide=Shell,OpenSCAD,Makefile,G-code,JavaScript,Prolog&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&layout=compact&theme=darcula" />
-</p>
+<table width="100%" border="0" style="background-color:#242424;">
+	<tbody>
+        <tr>
+            <td colspan="2">
+                <p style="color: white" align="center">
+                    GitHub Statistics
+                </p>
+            </td>
+        </tr>
+		<tr>
+			<td width="50%" align="center" valign="middle"><img width="95%" align="center" src="https://github-readme-stats.vercel.app/api?username=CrashOverrideProductions&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=darcula"/></td>
+			<td width="50%" align="center" valign="middle"><img width="63%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrashOverrideProductions&langs_count=10&hide=Shell,OpenSCAD,Makefile,G-code,Prolog&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&layout=compact&theme=darcula"/></td>
+		</tr>
+                <tr>
+            <td colspan="2">
+                <p style="color: white" align="center">
+                    Repositories
+                </p>
+            </td>
+        </tr>
+                <tr>
+            <td colspan="2">
+                <p style="color: white" align="Left">
+                    Section Title
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p align="center">
+                  <a href="https://github.com/CrashOverrideProductions/Bad_USB">
+  	                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=Bad_USB&theme=darcula" />
+                    </a>
+                </p>
+            </td>
+            <td>
+                <p align="center">
+                    <a href="https://github.com/CrashOverrideProductions/Bad_USB_W">
+  	                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=Bad_USB_W&theme=darcula" />
+                    </a>
+                </p>
+            </td>
+        </tr>
+	</tbody>
+</table>
 
 
 
