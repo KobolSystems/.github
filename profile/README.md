@@ -32,8 +32,8 @@ Proin sed porttitor nulla. Cras ac dolor eu ante posuere semper. Suspendisse pot
             </td>
         </tr>
 		<tr>
-			<td width="50%" align="center" valign="middle"><img width="95%" align="center" src="https://github-readme-stats.vercel.app/api?username=CrashOverrideProductions&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=darcula"/></td>
-			<td width="50%" align="center" valign="middle"><img width="63%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrashOverrideProductions&langs_count=10&hide=Shell,OpenSCAD,Makefile,G-code,Prolog&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&layout=compact&theme=darcula"/></td>
+			<td width="50%" align="center" valign="middle"><img width="95%" align="center" src="https://github-readme-stats.vercel.app/api?username=CrashOverrideProductions&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"/></td>
+			<td width="50%" align="center" valign="middle"><img width="63%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrashOverrideProductions&langs_count=10&hide=Shell,OpenSCAD,Makefile,G-code,Prolog&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&layout=compact"/></td>
 		</tr>
                 <tr>
             <td colspan="2">
@@ -53,14 +53,14 @@ Proin sed porttitor nulla. Cras ac dolor eu ante posuere semper. Suspendisse pot
             <td>
                 <p align="center">
                   <a href="https://github.com/CrashOverrideProductions/Bad_USB">
-  	                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=Bad_USB&theme=darcula" />
+  	                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=Bad_USB" />
                     </a>
                 </p>
             </td>
             <td>
                 <p align="center">
                     <a href="https://github.com/CrashOverrideProductions/Bad_USB_W">
-  	                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=Bad_USB_W&theme=darcula" />
+  	                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=Bad_USB_W" />
                     </a>
                 </p>
             </td>
